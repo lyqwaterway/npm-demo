@@ -1,30 +1,16 @@
-# my-project
+###node.js
+=======
+Node.js+express.js+mongoose+ejs+monogdb知识库管理系统 <br />
+> 框架用的MVC方式。<br />
+> > 基于express.js 的MVC方式实现<br />
 
-> A Vue.js project
+> 博客管理<br />
+> > 文件博客分类管理<br />
+> > 博客搜索功能<br />
 
-## Build Setup
+> 文件管理<br />
+> > 包括多文件异步带进度的上传方式<br />
+> > 图片高性能加载<br />
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 用户管理<br />
+> > 用户权限管理系统<br />
